@@ -1,9 +1,9 @@
-  =>  Template Name    : GrowMark - Digital Marketing HTML Template
+  =>  Template Name    : VOS Media
 
-  =>  Template Link    : https://htmlcodex.com/digital-marketing-html-template
+  =>  Template Link    : https://vosmediaservices.com/digital-marketing-html-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://vosmediaservices.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : VOS Media
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://vosmediaservices.com
